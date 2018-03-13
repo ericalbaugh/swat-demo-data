@@ -1,0 +1,909 @@
+{
+  "workspace_user": [
+    {
+      "email": "alex_demo",
+      "name": "alex_demo",
+      "first_name": "Alex ",
+      "last_name": "Losovsky",
+      "phone1": "123456"
+    },
+    {
+      "email": "alice_demo",
+      "name": "alice_demo",
+      "first_name": "Alice ",
+      "last_name": "Miller",
+      "phone1": "123456"
+    },
+    {
+      "email": "cecil_demo",
+      "name": "cecil_demo",
+      "first_name": "Cecil ",
+      "last_name": "Dunn",
+      "phone1": "123456"
+    },
+    {
+      "email": "peter_demo",
+      "name": "peter_demo",
+      "first_name": "PPM",
+      "last_name": "Integration",
+      "phone1": "123456"
+    },
+    {
+      "email": "michael_demo",
+      "name": "michael_demo",
+      "first_name": "Michael ",
+      "last_name": "Parker",
+      "phone1": "123456"
+    },
+    {
+      "email": "james_demo",
+      "name": "james_demo",
+      "first_name": "James ",
+      "last_name": "Horner",
+      "phone1": "123456"
+    },
+    {
+      "email": "tom_demo",
+      "name": "tom_demo",
+      "first_name": "Tom ",
+      "last_name": "Gibbons",
+      "phone1": "123456"
+    },
+    {
+      "email": "kelly_demo",
+      "name": "kelly_demo",
+      "first_name": "Kelly ",
+      "last_name": "Slater",
+      "phone1": "123456"
+    },
+    {
+      "email": "mary_demo",
+      "name": "mary_demo",
+      "first_name": "Mary ",
+      "last_name": "Jane",
+      "phone1": "123456"
+    },
+    {
+      "email": "paul_demo",
+      "name": "paul_demo",
+      "first_name": "Paul ",
+      "last_name": "Weller",
+      "phone1": "123456"
+    },
+    {
+      "email": "robert_demo",
+      "name": "robert_demo",
+      "first_name": "Robert ",
+      "last_name": "Plant",
+      "phone1": "123456"
+    }
+  ],
+  "release": [
+    {
+      "name": "AOS 1.0",
+      "description": "Release 1 of Advantage Online Shopping"
+    },
+    {
+      "name": "AOS 1.5",
+      "description": "Release 1.5 of Advantage Online Shopping"
+    }
+  ],
+  "product_area": [
+    {
+      "name": "01 Home Banner",
+      "description": "01 Home Banner",
+      "childEntities": [
+        {
+          "name": "Page Jumps",
+          "description": "Page Jumps",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "02 Speakers",
+      "description": "02 Speakers",
+      "childEntities": [
+        {
+          "name": "Roar",
+          "description": "Roar",
+          "childEntities": []
+        },
+        {
+          "name": "Roar Mini",
+          "description": "Roar Mini",
+          "childEntities": []
+        },
+        {
+          "name": "Soundlink",
+          "description": "Soundlink",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "03 Tablets",
+      "description": "03 Tablets",
+      "childEntities": [
+        {
+          "name": "ElitePad",
+          "description": "ElitePad",
+          "childEntities": []
+        },
+        {
+          "name": "Elite",
+          "description": "Elite",
+          "childEntities": []
+        },
+        {
+          "name": "Pro",
+          "description": "Pro",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "04 Laptops",
+      "description": "04 Laptops",
+      "childEntities": [
+        {
+          "name": "Chromebook",
+          "description": "Chromebook",
+          "childEntities": []
+        },
+        {
+          "name": "ENVY",
+          "description": "ENVY",
+          "childEntities": []
+        },
+        {
+          "name": "Pavillion",
+          "description": "Pavillion",
+          "childEntities": []
+        },
+        {
+          "name": "Spectre",
+          "description": "Spectre",
+          "childEntities": []
+        },
+        {
+          "name": "ZBook",
+          "description": "ZBook",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "05 Mice",
+      "description": "05 Mice",
+      "childEntities": [
+        {
+          "name": "G502 Proteus",
+          "description": "G502 Proteus",
+          "childEntities": []
+        },
+        {
+          "name": "Kensington 72337",
+          "description": "Kensington 72337",
+          "childEntities": []
+        },
+        {
+          "name": "Kensington 72352",
+          "description": "Kensington 72352",
+          "childEntities": []
+        },
+        {
+          "name": "Optical Mouse",
+          "description": "Optical Mouse",
+          "childEntities": []
+        },
+        {
+          "name": "Sculpt Touch",
+          "description": "Sculpt Touch",
+          "childEntities": []
+        },
+        {
+          "name": "Z3200 Wireless",
+          "description": "Z3200 Wireless",
+          "childEntities": []
+        },
+        {
+          "name": "Z4000 Wireless",
+          "description": "Z4000 Wireless",
+          "childEntities": []
+        },
+        {
+          "name": "Z8000 Wireless",
+          "description": "Z8000 Wireless",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "06 Headphones",
+      "description": "06 Headphones",
+      "childEntities": [
+        {
+          "name": "Beats Studio",
+          "description": "G502 Proteus",
+          "childEntities": []
+        },
+        {
+          "name": "HP H2310",
+          "description": "HP H2310",
+          "childEntities": []
+        },
+        {
+          "name": "Logitech H390",
+          "description": "Logitech H390",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "07 Special Offer",
+      "description": "07 Special Offer",
+      "childEntities": []
+    },
+    {
+      "name": "08 Explore Now",
+      "description": "08 Explore Now",
+      "childEntities": []
+    },
+    {
+      "name": "09 Popular Items",
+      "description": "09 Popular Items",
+      "childEntities": []
+    },
+    {
+      "name": "10 Contact Us",
+      "description": "Contact Us",
+      "childEntities": []
+    },
+    {
+      "name": "11 User Profile",
+      "description": "11 User Profile",
+      "childEntities": [
+        {
+          "name": "Create Account",
+          "description": "Create Account",
+          "childEntities": []
+        },
+        {
+          "name": "Edit Account",
+          "description": "Edit Account",
+          "childEntities": []
+        },
+        {
+          "name": "Facebook Sign In",
+          "description": "Facebook Sign In",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "12 Shopping Cart",
+      "description": "Shopping Cart",
+      "childEntities": []
+    },
+    {
+      "name": "13 Payment",
+      "description": "13 Payment",
+      "childEntities": [
+        {
+          "name": "Credit Card",
+          "description": "Credit Card",
+          "childEntities": []
+        },
+        {
+          "name": "PayPal",
+          "description": "Pay Pal",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "14 Performance",
+      "description": "14 Performance",
+      "childEntities": [
+        {
+          "name": "Database Performance",
+          "description": "Database Performance",
+          "childEntities": []
+        },
+        {
+          "name": "UI Performance",
+          "description": "UI Performance",
+          "childEntities": []
+        }
+      ]
+    },
+    {
+      "name": "15 Security",
+      "description": "15 Security",
+      "childEntities": [
+        {
+          "name": "Password",
+          "description": "Password",
+          "childEntities": []
+        },
+        {
+          "name": "Secure Login",
+          "description": "Secure Login",
+          "childEntities": []
+        },
+        {
+          "name": "Meltdown and Spectre",
+          "description": "Meltdown and Spectre",
+          "childEntities": []
+        }
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "AOS UI",
+      "description": "Team of UI ",
+      "members": [
+        "alex_demo",
+        "alice_demo",
+        "cecil_demo"
+      ],
+      "releases": [
+        {
+          "name": "AOS 1.0",
+          "description": "Release 1 of Advantage Online Shopping"
+        }
+      ],
+      "assign_to_new_releases": true,
+      "estimated_velocity": 60
+    },
+    {
+      "name": "AOS API",
+      "description": "Team of API",
+      "members": [
+        "peter_demo",
+        "michael_demo",
+        "james_demo",
+        "tom_demo"
+      ],
+      "releases": [
+        {
+          "name": "AOS 1.0",
+          "description": "Release 1 of Advantage Online Shopping"
+        }
+      ],
+      "assign_to_new_releases": true,
+      "estimated_velocity": 60
+    },
+    {
+      "name": "AOS Infra",
+      "description": "Team of Infra",
+      "members": [
+        "kelly_demo",
+        "mary_demo",
+        "paul_demo",
+        "robert_demo"
+      ],
+      "releases": [
+        {
+          "name": "AOS 1.0",
+          "description": "Release 1 of Advantage Online Shopping"
+        },
+        {
+          "name": "AOS 1.5",
+          "description": "Release 1.5 of Advantage Online Shopping"
+        }
+      ],
+      "assign_to_new_releases": true,
+      "estimated_velocity": 60
+    }
+  ],
+  "requirement": [
+    {
+      "name": "Advantage Online Shopping",
+      "subtype": "requirement_folder",
+      "childEntities": [
+        {
+          "name": "History of Online Shopping",
+          "subtype": "requirement_document",
+          "description": "<html><body>\n<p style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:'calibri' , sans-serif\">The growth of the internet as a secure shopping channel has developed since 1994, with the first sales of Sting album '<a href=\"https://en.wikipedia.org/wiki/Ten_Summoner%27s_Tales\" style=\"color:blue;text-decoration:underline\" title=\"Ten Summoner's Tales\">Ten Summoner's Tales</a>'.<a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-2\" style=\"color:blue;text-decoration:underline\"><sup>[2]</sup></a> Wine, chocolates and flowers soon followed and were among the pioneering retail categories which fueled the growth of online shopping. Researchers found that having products that are appropriate for <a href=\"https://en.wikipedia.org/wiki/E-commerce\" style=\"color:blue;text-decoration:underline\" title=\"E-commerce\">e-commerce</a> was a key indicator of Internet success.<a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-3\" style=\"color:blue;text-decoration:underline\"><sup>[3]</sup></a> Many of these products did well as they are generic products which shoppers didn't need to touch and feel in order to buy. But also importantly in the early days there were few shoppers online and they were from a narrow segment: affluent, male, 30+. Online shopping has come along way since these early days and -in the UK- accounts for significant percents (depending on product category as percentages can vary).</span></span></span></p> \n</body></html>",
+          "childEntities": [
+            {
+              "name": "Growth",
+              "subtype": "requirement_document",
+              "description": "<html><body>\n<p style=\"margin-right:0in;margin-left:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">As the revenues from online sales continued to grow significantly researchers identified different types of online shoppers, Rohm &amp; Swaninathan<sup><a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-4\" style=\"color:blue;text-decoration:underline\">[4]</a></sup> identified four categories and named them &quot;<i>convenience shoppers, variety seekers, balanced buyers, and store-oriented shoppers</i>&quot;. They focused on shopping motivations and found that the variety of products available and the perceived convenience of the buying online experience were significant motivating factors. This was different for offline shoppers, who were more motivated by time saving and recreational motives.</span></span></p> \n</body></html>",
+              "childEntities": [
+                {
+                  "name": "Statistics",
+                  "subtype": "requirement_document",
+                  "description": "<html><body>\n<p style=\"margin-right:0in;margin-left:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">Statistics show that in 2012, Asia-Pacific increased their international sales over 30% giving them over $433 billion in revenue. That is a $69 billion difference between the U.S. revenue of $364.66 billion. It is estimated that Asia-Pacific will increase by another 30% in the year 2013 putting them ahead by more than one-third of all global ecommerce sales.<sup>[</sup><a href=\"https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Precise_language\" style=\"color:blue;text-decoration:underline\" title=\"Wikipedia:Manual of Style/Dates and numbers\"><i><sup>needs update</sup></i></a><sup>]</sup> The largest online shopping day in the world is <a href=\"https://en.wikipedia.org/wiki/Singles_Day\" style=\"color:blue;text-decoration:underline\" title=\"Singles Day\">Singles Day</a>, with sales just in <a href=\"https://en.wikipedia.org/wiki/Alibaba_Group\" style=\"color:blue;text-decoration:underline\" title=\"Alibaba Group\">Alibaba</a>'s sites at US$9.3 billion in 2014.<a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-12\" style=\"color:blue;text-decoration:underline\"><sup>[12]</sup></a><a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-13\" style=\"color:blue;text-decoration:underline\"><sup>[13]</sup></a></span></span></p> \n</body></html>",
+                  "childEntities": [
+                    {
+                      "name": "Customers",
+                      "subtype": "requirement_document",
+                      "description": "<html><body>\n<p style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:'calibri' , sans-serif\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">Online customers must have access to the Internet and a valid </span></span><a href=\"https://en.wikipedia.org/wiki/Online_shopping#Payment\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">method of payment</span></span></span></a><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"> in order to complete a transaction. Generally, higher levels of education and personal income correspond to more favorable perceptions of shopping online. Increased exposure to technology also increases the probability of developing favorable attitudes towards new shopping channels.</span></span><a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-enriquebigne-14\"><sup><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">[14]</span></span></span></sup></a></span></span></span></p> \n<p style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:'calibri' , sans-serif\"><sup><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\"></span></span></span></sup></span></span></span></p> \n</body></html>",
+                      "childEntities": [
+                        {
+                          "name": "Go-to-Market",
+                          "subtype": "requirement_document",
+                          "description": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Merchants",
+                      "subtype": "requirement_document",
+                      "description": "<html><body>\n<p>When merchants update their...</p> \n</body></html>"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Buying Behavior",
+              "subtype": "requirement_document",
+              "description": "<html><body>\n<p style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:'calibri' , sans-serif\">The marketing around the digital environment, customer's buying behaviour may not be influenced and controlled by the brand and firm, when they make a buying decision that might concern the interactions with search engine, recommendations, online reviews and other information. With the quickly separate of the digital devices environment, people are more likely to use their mobile phones, computers, tablets and other digital devices to gather information. In other words, the digital environment has a growing effect on consumer's mind and buying behaviour. In an online shopping environment, interactive decision may have an influence on aid customer decision making. Each customer is becoming more interactive, and though online reviews customers can influence other potential buyers' behaviours.<a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-15\" style=\"color:blue;text-decoration:underline\"><sup>[</sup></a></span></span></span></p> \n</body></html>",
+              "childEntities": [
+                {
+                  "name": "Design",
+                  "subtype": "requirement_document",
+                  "description": "<html><body>\n<p style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:'calibri' , sans-serif\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">Customers are attracted to online shopping not only because of high levels of convenience, but also because of broader selections, competitive pricing, and greater access to information.</span></span><a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-23\"><sup><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">[23]</span></span></span></sup></a><a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-24\"><sup><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">[24]</span></span></span></sup></a><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"> Business organizations seek to offer online shopping not only because it is of much lower cost compared to bricks and mortar stores, but also because it offers access to a worldwide market, increases customer value, and builds sustainable capabilities</span></span></span></span></span></p> \n</body></html>",
+                  "childEntities": [
+                    {
+                      "name": "Information Load",
+                      "subtype": "requirement_document",
+                      "description": "<html><body>\n<p style=\"margin-right:0in;margin-left:0in\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">Designers of online shops are concerned with the effects of information load. Information load is a product of the spatial and temporal arrangements of stimuli in the web store.<a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-26\" style=\"color:blue;text-decoration:underline\"><sup>[26]</sup></a> Compared with conventional retail shopping, the information environment of virtual shopping is enhanced by providing additional product information such as comparative products and services, as well as various alternatives and attributes of each alternative, etc.<a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-huang-27\" style=\"color:blue;text-decoration:underline\"><sup>[27]</sup></a> Two major dimensions of information load are complexity and novelty.<a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-28\" style=\"color:blue;text-decoration:underline\"><sup>[28]</sup></a> Complexity refers to the number of different elements or features of a site, often the result of increased information diversity. Novelty involves the unexpected, suppressed, new, or unfamiliar aspects of the site. The novelty dimension may keep consumers exploring a shopping site, whereas the complexity dimension may induce <a href=\"https://en.wikipedia.org/wiki/Impulse_purchase\" style=\"color:blue;text-decoration:underline\" title=\"Impulse purchase\">impulse purchases</a>.<a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-huang-27\" style=\"color:blue;text-decoration:underline\"><sup>[27]</sup></a></span></span></p> \n</body></html>",
+                      "childEntities": [
+                        {
+                          "name": "Consumer Needs and Expectations",
+                          "subtype": "requirement_document",
+                          "description": "<html><body>\n<p style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:'calibri' , sans-serif\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">According to the output of a research report by </span></span><a href=\"https://en.wikipedia.org/wiki/Western_Michigan_University\" title=\"Western Michigan University\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">Western Michigan University</span></span></span></a><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"> published in 2005, an e-commerce website does not have to be good looking with listing on a lot of search engines. It must build relationships with customers to make money. The report also suggests that a website must leave a positive impression on the customers, giving them a reason to come back.</span></span><a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-louisfalk-29\"><sup><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">[29]</span></span></span></sup></a></span></span></span></p> \n<p style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:'calibri' , sans-serif\"><a href=\"https://en.wikipedia.org/wiki/Dyn_(company)\" title=\"Dyn (company)\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">Dyn</span></span></span></a><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">, an Internet performance management company conducted a survey on more than 1400 consumers across 11 countries in </span></span><a href=\"https://en.wikipedia.org/wiki/North_America\" title=\"North America\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">North America</span></span></span></a><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">, </span></span><a href=\"https://en.wikipedia.org/wiki/Europe\" title=\"Europe\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">Europe</span></span></span></a><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">, </span></span><a href=\"https://en.wikipedia.org/wiki/Middle-East\" title=\"Middle-East\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">Middle-East</span></span></span></a><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"> and </span></span><a href=\"https://en.wikipedia.org/wiki/Asia\" title=\"Asia\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">Asia</span></span></span></a><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"> and the results of the survey are as follows:</span></span></span></span></span></p> \n<ul> \n<li style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"\"><span style=\"font-family:'calibri' , sans-serif\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">Online retailers must improve the website speed</span></span></span></span></span></span></li> \n<li style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"\"><span style=\"font-family:'calibri' , sans-serif\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">Online retailers must ease consumers fear around security</span></span></span></span></span></span></li> \n</ul> \n<p style=\"margin:0in 0in 8pt\"><span style=\"font-size:11pt\"><span style=\"line-height:normal\"><span style=\"font-family:'calibri' , sans-serif\"><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\">These concerns majorly affect the decisions of almost two thirds of the consumers.</span></span><a href=\"https://en.wikipedia.org/wiki/Online_shopping#cite_note-30\"><sup><span style=\"font-size:12pt\"><span style=\"font-family:'times new roman' , serif\"><span style=\"color:blue\">[30]</span></span></span></sup></a></span></span></span></p> \n</body></html>"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Merchants",
+                      "subtype": "requirement_document",
+                      "description": "<html><body>\n<p>When merchants update their...</p> \n</body></html>"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "test": [
+    {
+      "name": "mobile_Verify I can edit my cart",
+      "description": "<p>mobile_Verify I can edit my cart</p>",
+      "subtype": "gherkin_test",
+      "author": "alice_demo",
+      "designer": "alice_demo",
+      "owner": "alice_demo",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "12 Shopping Cart"
+      ],
+      "covered_content": [
+        "As a mobile user, I can edit my cart"
+      ],
+      "estimated_duration": "23"
+    },
+    {
+      "name": "Verify I can edit my cart",
+      "description": "<p>Verify I can edit my cart</p>",
+      "subtype": "gherkin_test",
+      "author": "alice_demo",
+      "designer": "alice_demo",
+      "owner": "alice_demo",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "12 Shopping Cart"
+      ],
+      "covered_content": [
+        "As a responsive web user, I can edit my cart ",
+        "Cannot edit my cart in Edge Browser"
+      ],
+      "estimated_duration": "23"
+    },
+    {
+      "name": "mobile_Verify I can navigate to cart via cart icon",
+      "description": "<p>mobile_Verify I can navigate to cart via cart icon<p>",
+      "subtype": "test_manual",
+      "author": "cecil_demo",
+      "designer": "alice_demo",
+      "owner": "alice_demo",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "01 Home Banner",
+        "12 Shopping Cart"
+      ],
+      "covered_content": [
+        "As a mobile user, I can navigate to my cart by selecting the cart icon"
+      ],
+      "estimated_duration": "40"
+    },
+    {
+      "name": "Verify I can navigate to cart via cart icon",
+      "description": "<p>Verify I can navigate to cart via cart icon<p>",
+      "subtype": "test_manual",
+      "author": "cecil_demo",
+      "designer": "alice_demo",
+      "owner": "alice_demo",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "01 Home Banner",
+        "12 Shopping Cart"
+      ],
+      "covered_content": [
+        "As a responsive web user, I can navigate to my cart by selecting the cart icon"
+      ],
+      "estimated_duration": "40"
+    },
+    {
+      "name": "mobile_Verify I can remove items from cart",
+      "description": "<p>mobile_Verify I can remove items from cart<p>",
+      "subtype": "test_manual",
+      "author": "tom_demo",
+      "designer": "kelly_demo",
+      "owner": "kelly_demo",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "12 Shopping Cart"
+      ],
+      "covered_content": [
+        "As a mobile user, I can remove items from my cart",
+        "When removing a single item from cart, all items are removed"
+      ],
+      "estimated_duration": "20"
+    },
+    {
+      "name": "Verify I can remove items from cart",
+      "description": "<p>Verify I can remove items from cart<p>",
+      "subtype": "test_manual",
+      "author": "tom_demo",
+      "designer": "kelly_demo",
+      "owner": "kelly_demo",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "12 Shopping Cart"
+      ],
+      "covered_content": [
+        "As a responsive web user, I can remove items from my cart",
+        "When removing a single item from cart, all items are removed"
+      ],
+      "estimated_duration": "20"
+    },
+    {
+      "name": "mobile_Verify I can open a chat with customer support",
+      "description": "<p>mobile_Verify I can open a chat with customer support<p>",
+      "subtype": "gherkin_test",
+      "author": "kelly_demo",
+      "designer": "paul_demo",
+      "owner": "paul_demo",
+      "test_type": [
+        "Sanity"
+      ],
+      "product_areas": [
+        "10 Contact Us"
+      ],
+      "covered_content": [
+        "As a mobile user, I can open a live chat session with customer support"
+      ],
+      "estimated_duration": "10"
+    },
+    {
+      "name": "Verify I can open a chat with customer support",
+      "description": "<p>Verify I can open a chat with customer support<p>",
+      "subtype": "gherkin_test",
+      "author": "kelly_demo",
+      "designer": "paul_demo",
+      "owner": "paul_demo",
+      "test_type": [
+        "Sanity"
+      ],
+      "product_areas": [
+        "10 Contact Us"
+      ],
+      "covered_content": [
+        "As a responsive web user, I can open a live chat session with customer support"
+      ],
+      "estimated_duration": "2"
+    },
+    {
+      "name": "mobile_Verify I can fill out and submit a form",
+      "description": "<p>mobile_Verify I can fill out and submit a form<p>",
+      "subtype": "test_manual",
+      "author": "paul_demo",
+      "designer": "alex_alm",
+      "owner": "alex_alm",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "10 Contact Us"
+      ],
+      "covered_content": [
+        "As a mobile user, I can fill out the in site form to contact support"
+      ],
+      "estimated_duration": "20"
+    },
+    {
+      "name": "Verify I can fill out and submit a form",
+      "description": "<p>Verify I can fill out and submit a form<p>",
+      "subtype": "test_manual",
+      "author": "paul_demo",
+      "designer": "alex_alm",
+      "owner": "alex_alm",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "10 Contact Us"
+      ],
+      "covered_content": [
+        "As a responsive web user, I can fill out the in site form to contact support"
+      ],
+      "estimated_duration": "20"
+    },
+    {
+      "name": "mobile_Verify new account creation",
+      "description": "<p>mobile_Verify new account creation<p>",
+      "subtype": "test_manual",
+      "author": "mary_demo",
+      "designer": "cecil_demo",
+      "owner": "cecil_demo",
+      "test_type": [
+        "End to End"
+      ],
+      "product_areas": [
+        "11 User Profile",
+        "Create Account"
+      ],
+      "covered_content": [
+        "As a mobile user, I can create an account"
+      ],
+      "estimated_duration": "30"
+    },
+    {
+      "name": "Checkout_Regression",
+      "description": "<p>Checkout Regression<p>",
+      "subtype": "test_suite",
+      "author": "alex_alm",
+      "designer": "robert_demo",
+      "owner": "robert_demo",
+      "test_type": [
+        "End to End"
+      ],
+      "product_areas": [
+        "12 Shopping Cart",
+        "14 Performance",
+        "15 Security"
+      ],
+      "covered_content": [
+        "As a mobile user, I can edit my cart",
+        "As a responsive web user, I can edit my cart",
+        "Cannot edit my cart in Edge Browser",
+        "As a mobile user, I can navigate to my cart by selecting the cart icon",
+        "As a responsive web user, I can navigate to my cart by selecting the cart icon",
+        "As a mobile user, I can remove items from my cart",
+        "When removing a single item from cart, all items are removed",
+        "As a responsive web user, I can remove items from my cart",
+        "When removing a single item from cart, all items are removed"
+      ],
+      "tests": [
+        {
+          "test": "mobile_Verify I can edit my cart",
+          "test_suite": "Checkout_Regression",
+          "author": "alex_alm"
+        },
+        {
+          "test": "Verify I can edit my cart",
+          "test_suite": "Checkout_Regression",
+          "author": "alex_alm"
+        },
+        {
+          "test": "mobile_Verify I can navigate to cart via cart icon",
+          "test_suite": "Checkout_Regression",
+          "author": "alex_alm"
+        },
+        {
+          "test": "Verify I can navigate to cart via cart icon",
+          "test_suite": "Checkout_Regression",
+          "author": "alex_alm"
+        },
+        {
+          "test": "mobile_Verify I can remove items from cart",
+          "test_suite": "Checkout_Regression",
+          "author": "alex_alm"
+        },
+        {
+          "test": "Verify I can remove items from cart",
+          "test_suite": "Checkout_Regression",
+          "author": "alex_alm"
+        }
+      ]
+    },
+    {
+      "name": "Contact Us_Regression",
+      "description": "<p>Contact Us Regression<p>",
+      "subtype": "test_suite",
+      "author": "kelly_demo",
+      "designer": "robert_demo",
+      "owner": "robert_demo",
+      "test_type": [
+        "End to End"
+      ],
+      "product_areas": [
+        "10 Contact Us"
+      ],
+      "covered_content": [
+        "As a mobile user, I can open a live chat session with customer support",
+        "As a responsive web user, I can open a live chat session with customer support",
+        "As a mobile user, I can fill out the in site form to contact support",
+        "As a responsive web user, I can fill out the in site form to contact support"
+      ],
+      "tests": [
+        {
+          "test": "mobile_Verify I can open a chat with customer support",
+          "test_suite": "Contact Us_Regression",
+          "author": "kelly_demo"
+        },
+        {
+          "test": "Verify I can open a chat with customer support",
+          "test_suite": "Contact Us_Regression",
+          "author": "kelly_demo"
+        },
+        {
+          "test": "mobile_Verify I can open a chat with customer support",
+          "test_suite": "Contact Us_Regression",
+          "author": "kelly_demo"
+        },
+        {
+          "test": "Verify I can open a chat with customer support",
+          "test_suite": "Contact Us_Regression",
+          "author": "kelly_demo"
+        }
+      ]
+    },
+    {
+      "name": "Verify I can navigate multiple category items",
+      "description": "<p>Verify I can navigate multiple category items<p>",
+      "subtype": "gherkin_test",
+      "author": "alice_demo",
+      "designer": "alice_demo",
+      "owner": "alice_demo",
+      "test_type": [
+        "End to End"
+      ],
+      "product_areas": [
+        "02 Speakers",
+        "03 Tablets",
+        "04 Laptops",
+        "05 Mice",
+        "06 Headphones",
+        "Page Jumps"
+      ],
+      "covered_content": [
+        "As a responsive web user, when I click Speakers from the Home page, I am taken to the Speakers category page",
+        "As a responsive web user, when I click Tablets from the Home page, I am taken to the Tablets category page",
+        "As a responsive web user, when I click Laptops from the Home page, I am taken to the Laptops category page",
+        "As a responsive web user, when I click Mice from the Home page, I am taken to the Mice category page",
+        "As a responsive web user, when I click Headphones from the Home page, I am taken to the Headphones category page"
+      ],
+      "estimated_duration": "22"
+    },
+    {
+      "name": "Verify that there is a validation on CCV field ",
+      "description": "<p>Verify that there is a validation on CCV field<p>",
+      "subtype": "gherkin_test",
+      "author": "alice_demo",
+      "designer": "alice_demo",
+      "owner": "alice_demo",
+      "test_type": [
+        "End to End"
+      ],
+      "product_areas": [
+        "13 Payment"
+      ],
+      "covered_content": [
+        "As a user, when using a credit card on file, I must supply my CCV details"
+      ],
+      "estimated_duration": "40"
+    },
+    {
+      "name": "PayPal Verification",
+      "description": "<p>PayPal Verification<p>",
+      "subtype": "gherkin_test",
+      "author": "cecil_demo",
+      "designer": "cecil_demo",
+      "owner": "cecil_demo",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "13 Payment"
+      ],
+      "covered_content": [
+        "As a user, I can pay with my PayPal account"
+      ],
+      "estimated_duration": "23"
+    },
+    {
+      "name": "Update password ",
+      "description": "<p> Verify user can update his password<p>",
+      "subtype": "gherkin_test",
+      "author": "kelly_demo",
+      "designer": "kelly_demo",
+      "owner": "kelly_demo",
+      "test_type": [
+        "End to End"
+      ],
+      "product_areas": [
+        "11 User Profile",
+        "15 Security",
+        "Password",
+        "Secure Login",
+        "Facebook Sign In"
+      ],
+      "covered_content": [
+        "Session timeout is 60 min instead of 20 min"
+      ],
+      "estimated_duration": "23"
+    },
+    {
+      "name": "I can request to block my account when account hijacking is suspected",
+      "description": "<p> I can request to block my account when account hijacking is suspected<p>",
+      "subtype": "gherkin_test",
+      "author": "alex_alm",
+      "designer": "alex_alm",
+      "owner": "alex_alm",
+      "test_type": [
+        "End to End"
+      ],
+      "product_areas": [
+        "11 User Profile",
+        "15 Security"
+      ],
+      "covered_content": [
+        "As a user, I can request to block my account when account hijacking is suspected"
+      ],
+      "estimated_duration": "10"
+    },
+    {
+      "name": "Verify SSL 256",
+      "description": "<p>All communication must be SSL 256 -bit encrypted <p>",
+      "subtype": "test_manual",
+      "author": "kelly_demo",
+      "designer": "kelly_demo",
+      "owner": "kelly_demo",
+      "test_type": [
+        "Acceptance"
+      ],
+      "product_areas": [
+        "15 Security",
+        "Secure Login"
+      ],
+      "covered_content": [
+        "As a user, I can only access Advantage Online Shopping over SSL standards"
+      ],
+      "estimated_duration": "50"
+    }
+  ]
+}
